@@ -42,7 +42,7 @@ This project is perfect as a portfolio piece or learning project for frontend de
 ---
 
 🌐 **Live Demo:**  
-🔗 [https://travel-itenarary-website.vercel.app]
+🔗 https://travel-itinerary-hub.vercel.app/
 
 ---
 
